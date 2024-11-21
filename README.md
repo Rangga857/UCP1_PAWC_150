@@ -1,4 +1,7 @@
-manage animal(post, get, put, delete
+manage animal(post, get, put, delete)
+
+get
+![Screenshot 2024-11-21 123636](https://github.com/user-attachments/assets/4443c262-b63f-41a7-b80e-b9f43b23eab8)
 post
 ![Screenshot 2024-11-21 123001](https://github.com/user-attachments/assets/f4ecc146-6a32-4197-b2f6-4863c125e497)
 ![Screenshot 2024-11-21 123008](https://github.com/user-attachments/assets/d9d676a1-0602-408b-ad44-f0ec0e90ef0a)
